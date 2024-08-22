@@ -65,15 +65,18 @@ This project is a simple implementation of the Snake and Ladder game using the C
 ## Screenshots
 
 ### Game Start
-![Screenshot_20240822_165021](https://github.com/user-attachments/assets/7be09872-31a0-4960-aed8-9b1529c88cda)
+![Screenshot_20240822_234721](https://github.com/user-attachments/assets/e79e82ff-74d5-47b2-9b07-2d7c3a6efbf7)
+
 
 
 ### Player Move
-![Screenshot_20240822_165047](https://github.com/user-attachments/assets/84f07dfc-0af1-445b-bb65-55700c6c3106)
+![Screenshot_20240822_234754](https://github.com/user-attachments/assets/9171005b-e337-424f-8dfe-28028f2226fb)
+
 
 
 ### Winning Moment
-![Screenshot_20240822_165129](https://github.com/user-attachments/assets/1260b857-ac14-49f3-8d6f-d4b918d32d6b)
+![Screenshot_20240822_234824](https://github.com/user-attachments/assets/f78f6e4e-8a9d-4b0e-b164-30b4ab2a519e)
+
 
 
 ## Contributing
